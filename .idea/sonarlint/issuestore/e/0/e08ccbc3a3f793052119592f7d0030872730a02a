@@ -1,0 +1,9 @@
+
+S	java:S106""9Replace this use of System.out or System.err by a logger.(İÂÓæüÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(í¿Óêüÿÿÿÿ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(Ö®¾ÿÿÿÿÿ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(ç»è—
+f
+java:S1301:"KReplace this "switch" statement by "if" statements to increase readability.(…şÛìûÿÿÿÿ
+0
+java:S1220""Move this file to a named package.

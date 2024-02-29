@@ -1,0 +1,32 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ò÷õô
+N	java:S106)"9Replace this use of System.out or System.err by a logger.( Àø
+t
+java:S21425"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(Âú…İ
+U
+java:S22742":Remove this call to "wait" or move it into a "while" loop.(ÖîÎüÿÿÿÿ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(Óº¡
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(îƒÚàşÿÿÿÿ
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(¥ŒèŸüÿÿÿÿ
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(Í´ö¦
+N	java:S106\"9Replace this use of System.out or System.err by a logger.(¢‡×ğ
+S	java:S106b"9Replace this use of System.out or System.err by a logger.(å”Â÷ÿÿÿÿÿ
+S	java:S106c"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106k"9Replace this use of System.out or System.err by a logger.(ˆ±ô¤ÿÿÿÿÿ
+S	java:S106p"9Replace this use of System.out or System.err by a logger.(ÙâÜšÿÿÿÿÿ
+N	java:S106r"9Replace this use of System.out or System.err by a logger.(ôëşÑ
+F
+java:S2446t"0"notify" may not wake up the appropriate thread.(Ÿª›§
+S	java:S106y"9Replace this use of System.out or System.err by a logger.(æÊÑ÷ÿÿÿÿÿ
+[
+java:S2147~"ECombine this catch with the one at line 124, which has the same body.(ä ¹€
+t
+java:S2142~"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+T	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(íõ®‚ÿÿÿÿÿ
+T	java:S106†"9Replace this use of System.out or System.err by a logger.(Ôº˜şÿÿÿÿ
+N	java:S106‰"9Replace this use of System.out or System.err by a logger.(š¦¯p
+\
+java:S2147‘"ECombine this catch with the one at line 143, which has the same body.(¹¯Óˆ
+u
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
